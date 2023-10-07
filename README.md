@@ -5,7 +5,7 @@ This is the implementation of conditional denoising diffusion probabilistic mode
 
 
 Please cite our paper as follows:
-E. Azqadan, H. Jahed, A. Arami, Predictive microstructure image generation using denoising diffusion probabilistic models, Acta Mater. 261 (2023), 119406, doi: 10.1016/j.actamat.2023.119406.
+E. Azqadan, H. Jahed, A. Arami, Predictive microstructure image generation using denoising diffusion probabilistic models, Acta Mater. 261 (2023), 119406, https://doi.org/10.1016/j.actamat.2023.119406.
 
 
 The following repositories were used as inspiration for this implementation:
