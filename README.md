@@ -1,4 +1,4 @@
-# AZ80-DDPM
+# Machine Learning-Assisted Microstructure Image Prediction
 ## Conditional Denoising Diffusion Probabilistic Model for the Cast-Forged AZ80 Microstructure
 
 This is the implementation of conditional denoising diffusion probabilistic model to generate SEM microstructure images of seen and unseen cast-forged AZ80 magnesium alloy components. The model is conditioned based on the cast geometry, casting cooling rate, soaking process, pre-forging heat treatment, forging temperature, location of extracted metallography sample, and magnification. 
